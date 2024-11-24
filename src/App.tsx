@@ -51,6 +51,7 @@ function App() {
           Meet Your Personal
           <br />
           <span className="highlight">Recipe AI</span>
+	  <br />
 	  Created by Acadia Ferguson
         </h1>
         <p className="description">
