@@ -51,6 +51,7 @@ function App() {
           Meet Your Personal
           <br />
           <span className="highlight">Recipe AI</span>
+	  Created by Acadia Ferguson
         </h1>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
